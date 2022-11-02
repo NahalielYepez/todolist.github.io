@@ -1,0 +1,47 @@
+
+.card{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+    background-color: #6197e7;
+    border-radius: 40px;
+    word-wrap: break-word;
+    width: 500px;
+    height: auto;
+  }
+  
+  .itemList1 {
+    justify-content: "space-around";
+    padding: 8px;
+    border-radius: 10px;
+  }
+  
+  .itemList2 {
+    background-color: rgb(137, 216, 226);
+    display: flex;
+    padding: 5px;
+    padding-left: 20px;
+    justify-content: space-between;
+    border-radius: 10px;
+  }
+  
+  .buttonEdit {
+    padding-right: 10px;
+    overflow: auto;
+  }
+  
+  button {
+    border-radius: 7px;
+    border-color: transparent;
+  }
+  
